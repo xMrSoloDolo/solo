@@ -28,7 +28,7 @@
   "show_first_button": "on",
   "show_second_button":"off",
   "show_third_button": "off",
-  "show_fourth_button":"true",
+  "show_fourth_button":"on",
 
   
   "first_screen_text": "first screen text",
