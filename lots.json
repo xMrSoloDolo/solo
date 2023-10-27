@@ -16,9 +16,9 @@
   
   "Ads Explanation": " custom | applovin | admob | facebook ",
 
-  "Interstitial": "admob",
-  "Banner": "applovin",
-  "Native": "custom",
+  "Interstitial": "non",
+  "Banner": "non",
+  "Native": "non",
   
   "clicks_to_show_inter": 2,
   "native_rate": 2,
@@ -27,7 +27,7 @@
 
   "show_first_button": "on",
   "show_second_button":"off",
-  "show_third_button": "on",
+  "show_third_button": "off",
   "show_fourth_button":"off",
 
   
@@ -39,12 +39,12 @@
   "web_btn_1_text": "Open Web One",
   "web_btn_2_text": "Open Web Two",
 
-  "force_ate": true,
+  "force_ate": false,
   
-  "show_gender_screen": true,
-  "show_capatcha_screen": true,
-  "show_text_1_screen": true,
-  "show_text_2_screen": true,
+  "show_gender_screen": false,
+  "show_capatcha_screen": false,
+  "show_text_1_screen": false,
+  "show_text_2_screen": false,
 
   "is_app_suspended": false,
   "suspended_title": "A new update for this app is available.",
@@ -63,31 +63,31 @@
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 1",
 	 "sub_title": "Up To 70% Off",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 2",
 	 "sub_title": "One Week For Free",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 3",
 	 "sub_title": "Up To 50% Off",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	},
 	{
  	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 4",
 	 "sub_title": "10$ Less",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 5",
 	 "sub_title": "Get 20% Off",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	}
   ],
 
