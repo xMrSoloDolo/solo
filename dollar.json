@@ -1,0 +1,236 @@
+{
+
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+  "admob_native": "ca-app-pub-3940256099942544/2247696110",
+  "admob_open_app": "ca-app-pub-3940256099942544/5224354917",
+  
+  "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+  "facebook_rewarded": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
+ 
+  "applovin_banner_id": "13482be8f771efc7",
+  "applovin_interstitial_id": "37c0fd7e2939a3be",
+  "applovin_native_id": "76d87171404718ed",
+
+  
+  "Ads Explanation": " custom | applovin | admob | facebook ",
+
+  "Interstitial": "non",
+  "Banner": "non",
+  "Native": "non",
+  
+  "clicks_to_show_inter": 2,
+  "native_rate": 2,
+  "seconds_to_show_custom_ad": 30,
+  "show_custom_ad": "off",
+
+  "show_first_button": "on",
+  "show_second_button":"off",
+  "show_third_button": "off",
+  "show_fourth_button":"on",
+
+  
+  "first_screen_text": "first screen text",
+  "second_screen_text": "second screen text",
+  
+  "onesignal_id": "xxxxxxx",
+
+  "web_btn_1_text": "Open Web One",
+  "web_btn_2_text": "Open Web Two",
+
+  "force_ate": false,
+  
+  "show_gender_screen": false,
+  "show_capatcha_screen": false,
+  "show_text_1_screen": false,
+  "show_text_2_screen": false,
+
+  "is_app_suspended": false,
+  "suspended_title": "A new update for this app is available.",
+  "suspended_message": "Update this app because this version has some issues.",
+  "suspended_URL": "xxxx",
+  
+
+  "coupons": [
+	{
+	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 0",
+	 "sub_title": "Get 50% Off",
+	 "go_to": "https://www.geeksforgeeks.org"
+	},
+	{
+	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 1",
+	 "sub_title": "Up To 70% Off",
+	 "go_to": ""
+	},
+	{
+	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 2",
+	 "sub_title": "One Week For Free",
+	 "go_to": ""
+	},
+	{
+	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 3",
+	 "sub_title": "Up To 50% Off",
+	 "go_to": ""
+	},
+	{
+ 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 4",
+	 "sub_title": "10$ Less",
+	 "go_to": ""
+	},
+	{
+	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
+	 "title": "Code 5",
+	 "sub_title": "Get 20% Off",
+	 "go_to": ""
+	}
+  ],
+
+  "web_1": [
+    {
+      "title": "web_1 - Site 1",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 2",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 3",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 4",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_1 - Site 5",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 6",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_1 - Site 7",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 8",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_1 - Site 9",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_1 - Site 10",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	}
+  ],
+
+  "web_2": [
+    {
+      "title": "web_2 - Site 1",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 2",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 3",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_2 - Site 4",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 5",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 6",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_2 - Site 7",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 8",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": true
+	},
+    {
+      "title": "web_2 - Site 9",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	},
+    {
+      "title": "web_2 - Site 10",
+      "url": "https://www.geeksforgeeks.org",
+      "is_active": false
+	}
+  ],
+
+  "image_ideas": [
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v7900610307475107479/products/256978.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v741845604760165304/products/246353.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v8996576288834569831/products/292849.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v2800765174266146634/products/349964.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v7000489350047624992/products/292850.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v1618480393641995142/products/337579.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v2923001942512732693/products/336466.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v3531943297464759775/products/357278.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v4150474765284852503/products/18235.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v7818295261375568711/products/252645.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v1683993072543939430/products/367075.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v7767172900019654148/products/252475.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v2364102847750478502/products/317923.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v6200191691113547892/products/314053.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v5551923810970396030/products/165193.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v3889877547471338120/products/209818.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v6994219175350970805/products/336968.jpg&height=940&width=940",
+    "https://www.dollartree.com/ccstore/v1/images/?source=/file/v6506212950605261274/products/336697.jpg&height=940&width=940"
+  ],
+
+  "customNativeAdList": [
+    {
+      "name": "Clash Royale",
+      "url_or_package": "com.supercell.clashroyale",
+      "button_text": "Download",
+      "image": "https://play-lh.googleusercontent.com/3aKKWjPyFtqhRY3Uocx0s4gQ96-0mbJBQOE2WUlxK-gIZmkfXSGWAiPCjcN8YHypnls=w720-h310"
+    },
+    {
+      "name": "Snapchat",
+      "url_or_package": "com.snapchat.android",
+      "button_text": "Install!",
+      "image": "https://play-lh.googleusercontent.com/IuPVg4_aIUEYcKGSU0qr05QvWprOXaOEu_W2SGsEWEBC7jCQQ-OBOgWBqB3rR6xmDnU=w720-h310"
+    }
+  ]
+
+}
