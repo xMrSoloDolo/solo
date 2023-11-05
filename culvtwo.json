@@ -57,7 +57,7 @@
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
 	 "title": "Code 0",
 	 "sub_title": "Get 50% Off",
-	 "go_to": "https://www.geeksforgeeks.org"
+	 "go_to": ""
 	},
 	{
 	 "image": "https://www.shutterstock.com/blog/wp-content/uploads/sites/5/2022/12/coupon_create_cover1.jpg?w=960&h=600&crop=1",
@@ -94,52 +94,52 @@
   "web_1": [
     {
       "title": "web_1 - Site 1",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 2",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 3",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 4",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_1 - Site 5",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 6",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_1 - Site 7",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 8",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_1 - Site 9",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_1 - Site 10",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	}
   ],
@@ -147,52 +147,52 @@
   "web_2": [
     {
       "title": "web_2 - Site 1",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 2",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 3",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_2 - Site 4",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 5",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 6",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_2 - Site 7",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 8",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": true
 	},
     {
       "title": "web_2 - Site 9",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	},
     {
       "title": "web_2 - Site 10",
-      "url": "https://www.geeksforgeeks.org",
+      "url": "",
       "is_active": false
 	}
   ],
