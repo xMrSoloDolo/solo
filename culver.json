@@ -39,7 +39,7 @@
   "web_btn_1_text": "Open Web One",
   "web_btn_2_text": "Open Web Two",
 
-  "force_ate": true,
+  "force_ate": false,
   
   "show_gender_screen": false,
   "show_capatcha_screen": false,
